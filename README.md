@@ -21,7 +21,7 @@
 
 
 ### 🧠 My Daily Workflow
-After grabbing my morning coffee, I dive into data engineering and analytics using:
+code sleep and repeat!
 
 
 I’ve also worked with **data warehouses** like:
