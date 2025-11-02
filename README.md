@@ -66,8 +66,9 @@ I’ve also worked with **data warehouses** like:
 
 ### 🕒 Contribution Graph & Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav410&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github.com/VaibhavKumarKanojia/VaibhavKumarKanojia/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
