@@ -54,17 +54,6 @@ I’ve also worked with **data warehouses** like:
 
 ---
 
-### 📈 GitHub Stats & Highlights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=radical&hide_border=true&custom_title=Vaibhav%20Kumar%20Kanojia's%20GitHub%20Stats&title_color=ff79c6&text_color=ffffff" alt="Vaibhav's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav410&theme=radical&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="Vaibhav's GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=radical&hide_border=true&title_color=ff79c6" alt="Top Languages" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhav410&theme=radical" alt="GitHub Summary" width="48%"/>
-</p>
 
 ---
 
