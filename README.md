@@ -18,14 +18,11 @@
 
 ---
 
-### 🧠 My Daily Workflow  
-After grabbing my morning coffee, I dive into data engineering and analytics using:
+
+
 ### 🧠 My Daily Workflow
 After grabbing my morning coffee, I dive into data engineering and analytics using:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original-wordmark.svg" alt="dbt" width="160" height="80"/>
-</p>
 
 I’ve also worked with **data warehouses** like:
 
