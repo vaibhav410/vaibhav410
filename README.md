@@ -20,14 +20,19 @@
 
 ### 🧠 My Daily Workflow  
 After grabbing my morning coffee, I dive into data engineering and analytics using:
+### 🧠 My Daily Workflow
+After grabbing my morning coffee, I dive into data engineering and analytics using:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Dbt-logo.png" alt="dbt Logo" width="180" height="80"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original-wordmark.svg" alt="dbt" width="160" height="80"/>
+</p>
 
-I’ve also worked with **data warehouses** like:  
+I’ve also worked with **data warehouses** like:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Redshift_Logo.svg" alt="AWS Redshift" width="220" height="100"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Redshift" width="180" height="100"/>
+</p>
 
----
 
 ### 📊 Data Visualization Tools  
 <p align="center">
