@@ -18,11 +18,8 @@
 
 ---
 
-
-
-### 🧠 My Daily Workflow
-code sleep and repeat!
-
+### 🧠 My Daily Workflow  
+☕ Code • Analyze • Automate • Repeat 💻  
 
 I’ve also worked with **data warehouses** like:
 
@@ -30,6 +27,7 @@ I’ve also worked with **data warehouses** like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Redshift" width="180" height="100"/>
 </p>
 
+---
 
 ### 📊 Data Visualization Tools  
 <p align="center">
@@ -56,22 +54,43 @@ I’ve also worked with **data warehouses** like:
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Stats & Highlights  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=radical&langs_count=6&hide_border=true&include_all_commits=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav410&theme=radical&hide_border=true" alt="Vaibhav's GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhav410&theme=radical" alt="Overall GitHub Stats" width="48%"/>
 </p>
 
 ---
 
-### 🕒 Contribution Graph & Streak Stats  
+### 🏅 Developer Rating & Highlights  
+
 <p align="center">
-  <img src="https://github.com/VaibhavKumarKanojia/VaibhavKumarKanojia/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+⭐ <b>GitHub Rating:</b> 4/5  
+<br>💻 <b>2nd Year B.Tech (AI & ML)</b> | 📊 <b>Data & AI Enthusiast</b>  
+<br>🚀 <b>Consistent Contributor</b> | 🧠 <b>Always Learning & Improving</b>  
+<br>✨ <b>Passionate about Building Data-Driven Solutions</b>
 </p>
 
+---
+
+### 🕒 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=react-dark&hide_border=true&area=true" alt="Vaibhav's GitHub Contribution Graph"/>
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav410&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -92,3 +111,4 @@ I’ve also worked with **data warehouses** like:
 ---
 
 ⭐ *“Turning data into intelligence — one model at a time.”*
+
