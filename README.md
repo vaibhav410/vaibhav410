@@ -1,27 +1,24 @@
+<h1 align="center">Hi 👋, I'm Vaibhav kumar Knaojia</h1>
 
-<h1 align="center">Hi 👋, I'm Vaibhav Kumar Kanojia</h1>
-
-<h3 align="center">A passionate about AIML student from India</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav410&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav410" /> </p>
+<h3 align="center"> AI & ML Enthusiast </h3>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav410" alt="vaibhav410" /></a> </p>
+<br/>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 
-- 🌱 I’m currently learning **sikit-learn,pandas,pytouch,numpy,tenserflo,big-data,Deep Learning basic Fundamental**
+- 🌱 I’m currently learning **SQL**
 
 
 
-- 👨‍💻 All of my projects are available at [https://kanojia-tech.netlify.app/](https://kanojia-tech.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kanojia-tech.netlify.app/]
 
 
 
-- 📝 I regularly write articles on [my daily small goals](my daily small goals)
+- 💬 Ask me about **Data**
 
 
 
@@ -29,17 +26,89 @@
 
 
 
-- 📄 Know about my experiences [https://kanojia-tech.netlify.app/](https://kanojia-tech.netlify.app/)
+- ⚡ Fun fact: i am fodie
 
 
+
+- So I  checkout a branch and start writing SQL using
+
+<br><br/>
+
+
+
+<img src="https://www.ancoris.com/hubfs/Partner%20logos/dbt%20transparent%20logo7.png" alt="dbt Logo" width="250" height="100">
+
+<br><br/>
+
+
+
+After I grab my morning coffee , I start my work with the goal of building something like this :
+
+<br><br/>
+
+So I  checkout a branch and start writing SQL using
+
+<br><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Speaking of Data Warehouses I previously used
+
+
+
+<img src="https://th.bing.com/th/id/R.28dbe7572811cb1cc6f38136cebda27c?rik=N7jRVMj%2bRX9K%2bw&pid=ImgRaw&r=0" alt="Redshift Logo" width="300" height="200">
+
+<br><br/>
+
+
+
+
+
+ط
+
+
+
+
+
+No, I am not done yet!
+
+
+
+The rest of my role is building charts and dashboards To help Business
+
+
+
+<img src="https://th.bing.com/th/id/R.0dcdd373243bd1c01e7b1efb17351ad1?rik=H7d3jF4pNlA9WA&pid=ImgRaw&r=0" alt="Tableau Logo" width="300" height="200">
+
+<br><br/>
+
+
+
+<img src="https://linksinternational.com/wp-content/uploads/2020/09/PowerBI-Logo.png" alt="Power Bi" width="350" height="250">
+
+<br>
+
+<br><br/>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://linkedin.com/in/vaibhav-kumar-kanojia-38533631b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-kumar-kanojia-38533631b" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b" target="blank"><img align="center" src="https://raw.githubusercontent.com/vaibhav410/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelnaem-alaref" height="30" width="40" /></a>
 
-<a href="https://kaggle.com/https://www.kaggle.com/adivaibhav12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/adivaibhav12" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/adivaibhav12" target="blank"><img align="center" src="https://raw.githubusercontent.com/vaibhav410/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdelnaemalaref" height="30" width="40" /></a>
+
+<a href="https://fb.com/abdelnaemalaref" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelnaemalaref" height="30" width="40" /></a>
 
 </p>
 
@@ -47,13 +116,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/relational-database-icon/relational-database-icon-21.jpg" alt="Database" width="50" height="40"/> </a>
 
-<h3 align="left">Support:</h3>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/powerbi/avatar?imageSize=512" alt="Powerbi" width="40" height="40"/> </a> 
 
-<p><a href="https://ko-fi.com/kofi.com/vaibhavdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi.com/vaibhavdev" /></a></p><br><br>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/13/88/5f/13885f590c6070c7f106b0f19a17ab9b.png" alt="Excel" width="40" height="40"/> </a>
+
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p> 
+
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 
@@ -61,24 +136,38 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&locale=en" alt="vaibhav410" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav410&" alt="vaibhav410" /></p>
 
 
 <!--
+
 **vaibhav410/vaibhav410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
+
+
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
+-->
+
+
 -->
