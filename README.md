@@ -1,104 +1,109 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Kumar Kanojia</h1>
-<h3 align="center">🚀 2nd Year B.Tech (AI & ML) Student | Data & AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Vaibhav%20Kumar%20Kanojia;B.Tech%20%7C%20AI%20%26%20ML;Data%20Science%20Enthusiast;Machine%20Learning%20Engineer&font=Fira%20Code&pause=1000&center=true&width=600&height=80&duration=4000&color=007ACC&size=32" alt="Typing SVG"/>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhav410&label=Profile%20views&color=007ACC&style=flat)](https://github.com/vaibhav410)
+[![Followers](https://img.shields.io/github/followers/vaibhav410?label=Followers&style=social)](https://github.com/vaibhav410?tab=followers)
 
-### 🌱 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)**  
-- 💡 Passionate about **Machine Learning, Data Analysis, and AI-based Systems**  
-- 📊 Currently learning **SQL, Power BI & Data Visualization**  
-- 💻 Portfolio: [https://kanojia-tech.netlify.app/](https://kanojia-tech.netlify.app/)  
-- 💬 Ask me about **Python, Data Science, or AI projects**  
-- 📫 Reach me at **vkkanojia079@gmail.com**  
-- ⚡ Fun fact: **Coffee + Code = Perfect Combo ☕**  
+</div>
 
 ---
 
-### 🧠 My Daily Workflow  
-☕ Code • Analyze • Automate • Repeat 💻  
+## About
 
-I’ve also worked with **data warehouses** like:
+Vaibhav Kumar Kanojia is a 2nd-year B.Tech student specializing in AI & Machine Learning. Passionate about transforming data into actionable intelligence through machine learning models, data analytics, and AI systems.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Redshift" width="180" height="100"/>
-</p>
+Currently mastering:
+- Advanced SQL & Database Systems
+- Power BI & Tableau for Business Intelligence
+- End-to-end ML pipelines & deployment
 
----
-
-### 📊 Data Visualization Tools  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="220" height="130"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="220" height="130"/>
-</p>
+**Portfolio**: [kanojia-tech.netlify.app](https://kanojia-tech.netlify.app/)  
+**Email**: vkkanojia079@gmail.com [web:1]
 
 ---
 
-### 🧩 AI & ML Tools I Use  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70" alt="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="80" height="70" alt="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="80" height="70" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90" height="70" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" height="70" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80" height="70" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="70" height="70" alt="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70" alt="Figma"/>
-</p>
+## Technical Skills
+
+### Programming & Data Processing
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/>
+</div>
+
+### Machine Learning & AI
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="70" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="70" alt="Keras"/>
+</div>
+
+### Analytics & Visualization
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="140" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="140" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
+</div>
+
+### Cloud & Development Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
+</div>
 
 ---
 
+## Developer Metrics
+
+| Metric                  | Value          |
+|-------------------------|----------------|
+| Total Stars Earned      | 4              |
+| Commits (2025)          | 5,896+         |
+| Issues Resolved         | 2              |
+| Projects Delivered      | 10+            |
+| Primary Focus           | AI/ML/Analytics|
 
 ---
 
-### 🏅 Developer Highlights  
+## GitHub Analytics
 
-| 💫 Category | 🌟 Achievement |
-|--------------|----------------|
-| ⭐ **Total Stars Earned** | **4** |
-| 🔁 **Total Commits (2025)** | **5896+** |
-| 🧩 **Issues Solved** | **2** |
-| 🚀 **Projects Built** | **10+ Innovative Projects** |
-| 💡 **Focus Areas** | AI • Data Science • Machine Learning • Analytics |
-| 🌱 **Learning** | Python • SQL • Power BI • TensorFlow |
+<div align="center">
 
----
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🕒 Contribution Graph  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=react-dark&hide_border=true&area=true" alt="Vaibhav's GitHub Contribution Graph"/>
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vaibhav410&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav410&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
+</div>
 
 ---
 
-### 🤝 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+## Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/adivaibhav12" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
+  <a href="https://www.kaggle.com/adivaibhav12">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" alt="Kaggle"/>
   </a>
-  <a href="https://github.com/vaibhav410" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/vaibhav410">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   </a>
-</p>
+</div>
 
 ---
 
-⭐ *“Turning data into intelligence — one model at a time.”*
+<div align="center">
+  <i>"Turning data into intelligence through machine learning."</i>
+</div>
+
 
