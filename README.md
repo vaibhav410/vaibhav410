@@ -1,109 +1,92 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Vaibhav%20Kumar%20Kanojia;B.Tech%20%7C%20AI%20%26%20ML;Data%20Science%20Enthusiast;Machine%20Learning%20Engineer&font=Fira%20Code&pause=1000&center=true&width=600&height=80&duration=4000&color=007ACC&size=32" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Vaibhav+Kumar+Kanojia;Machine+Learning+Engineer;Robotics+Simulation+Expert;Autonomous+Systems+Developer&font=Fira+Code&pause=1000&center=true&width=600&height=80&duration=4000&color=007ACC&size=32" alt="Typing SVG"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vaibhav410&label=Profile%20views&color=007ACC&style=flat)](https://github.com/vaibhav410)
-[![Followers](https://img.shields.io/github/followers/vaibhav410?label=Followers&style=social)](https://github.com/vaibhav410?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhav410&label=Profile%20Views&color=007ACC&style=flat-square)](https://github.com/vaibhav410)
+[![Followers](https://img.shields.io/github/followers/vaibhav410?label=Followers&style=flat-square&color=007ACC)](https://github.com/vaibhav410?tab=followers)
 
 </div>
 
 ---
 
-## About
+## Computational Intelligence & Robotics
 
-Vaibhav Kumar Kanojia is a 2nd-year B.Tech student specializing in AI & Machine Learning. Passionate about transforming data into actionable intelligence through machine learning models, data analytics, and AI systems.
+I am a second-year B.Tech student focused on the convergence of **Artificial Intelligence** and **Robotics Engineering**. My work revolves around creating high-fidelity simulations and deploying machine learning architectures to enable autonomous decision-making in robotic systems.
 
-Currently mastering:
-- Advanced SQL & Database Systems
-- Power BI & Tableau for Business Intelligence
-- End-to-end ML pipelines & deployment
+- **Research Focus**: Reinforcement Learning for Robotic Kinematics.
+- **Current Development**: Autonomous Navigation Pipelines using ROS2.
+- **Simulation Proficiency**: Gazebo and PyBullet for physics-based modeling.
 
 **Portfolio**: [kanojia-tech.netlify.app](https://kanojia-tech.netlify.app/)  
-**Email**: vkkanojia079@gmail.com [web:1]
+**Email**: vkkanojia079@gmail.com
 
 ---
 
-## Technical Skills
+## Technical Ecosystem
 
-### Programming & Data Processing
+### Robotics Simulation & Control
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FFAB40?style=for-the-badge&logo=gazebo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Path Planning](https://img.shields.io/badge/Path_Planning-007ACC?style=for-the-badge)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/>
-</div>
+### Machine Learning & Artificial Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Machine Learning & AI
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" alt="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="70" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="70" alt="Keras"/>
-</div>
-
-### Analytics & Visualization
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="140" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="140" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
-</div>
-
-### Cloud & Development Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
-</div>
+### Engineering Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Developer Metrics
-
-| Metric                  | Value          |
-|-------------------------|----------------|
-| Total Stars Earned      | 4              |
-| Commits (2025)          | 5,896+         |
-| Issues Resolved         | 2              |
-| Projects Delivered      | 10+            |
-| Primary Focus           | AI/ML/Analytics|
-
----
-
-## GitHub Analytics
+## 3D Contribution Analysis
 
 <div align="center">
 
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vaibhav410&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+| Engineering Metric | Status / Value |
+| :--- | :--- |
+| **Current Academic Year** | 2nd Year B.Tech |
+| **Commit Velocity** | 5,800+ Annual |
+| **Core Specialization** | ML / Robotics |
+| **Active Projects** | 10+ Repositories |
 
 </div>
 
 ---
 
-## Connect
+## Performance Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/adivaibhav12">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" alt="Kaggle"/>
-  </a>
-  <a href="https://github.com/vaibhav410">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff)
+
 </div>
 
 ---
 
+## Professional Connectivity
+
 <div align="center">
-  <i>"Turning data into intelligence through machine learning."</i>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adivaibhav12)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav410)
+
+</div>
+
+---
+<div align="center">
+  <i>Engineering intelligent systems through data and simulation.</i>
 </div>
 
 
