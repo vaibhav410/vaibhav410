@@ -22,7 +22,7 @@ I am a second-year B.Tech student specializing in **Artificial Intelligence and 
 
 ---
 
-## Engineering Stack
+## Tech Stack
 
 ### Robotics & Physics Simulation
 ![Webots](https://img.shields.io/badge/Webots-Simulation-FF6600?style=for-the-badge&logo=probotics&logoColor=white)
