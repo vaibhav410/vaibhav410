@@ -1,90 +1,84 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Vaibhav+Kumar+Kanojia;&font=Fira+Code&pause=1000&center=true&width=600&height=80&duration=4000&color=007ACC&size=32" alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=vaibhav410&style=for-the-badge&color=007ACC&labelColor=000&label=ACCESS+LOGS"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vaibhav410&label=Profile+Views+Analytic&color=007ACC&style=flat-square)](https://github.com/vaibhav410)
-[![Followers](https://img.shields.io/github/followers/vaibhav410?label=Network+Followers&style=flat-square&color=007ACC)](https://github.com/vaibhav410?tab=followers)
+# `> VAIBHAV_KANOJIA.EXE`
 
-</div>
+```ascii
+██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║
+██║   ██║███████║██║██████╔╝███████║███████║██║   ██║
+╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝
+ ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
+  ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DOrbitron%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D00F5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DAI%2B%2526%2BML%2BENGINEER%3BAUTONOMOUS%2BROBOTICS%2BARCHITECT%3BWEBOTS%2BSIMULATION%2BSPECIALIST%3BPREDICTIVE%2BMODELING%2BEXPERT" alt="Typing SVG" />
 
----
+🛰️ SYSTEM ARCHITECTURE (ABOUT ME)
+Sophomore B.Tech Student specializing in Artificial Intelligence & Machine Learning.
 
-## Technical Profile
+Mainly focusing on the intersection of Autonomous Robotics and Predictive Modeling.
 
-I am a second-year B.Tech student specializing in **Artificial Intelligence and Machine Learning**. My core expertise is focused on the intersection of **Autonomous Robotics** and **Predictive Modeling**. I specialize in creating high-fidelity robotic simulations in **Webots** and developing ML pipelines that enable machines to perceive and interact with their environment.
+Expertise in creating high-fidelity robotic simulations in Webots and developing end-to-end ML pipelines.
 
-- **Primary Interest**: Autonomous Navigation and Robot Kinematics.
-- **Simulation Experience**: Designing and testing robotic logic in Webots environments.
-- **Academic Focus**: 2nd Year B.Tech (AI & ML).
+"Engineering the future of autonomous systems through intelligent data."
 
-**Portfolio**: [kanojia-tech.netlify.app](https://kanojia-tech.netlify.app/)  
-**Email**: vkkanojia079@gmail.com
-
----
-
-## Tech Stack
-
-### Robotics & Physics Simulation
-![Webots](https://img.shields.io/badge/Webots-Simulation-FF6600?style=for-the-badge&logo=probotics&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Control Systems](https://img.shields.io/badge/Control_Systems-007ACC?style=for-the-badge)
-
-### Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Data Engineering & Analytics
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## Development Performance & Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav410&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
-
-<br/>
-
-| Performance Metric | Industrial Value |
-| :--- | :--- |
-| **B.Tech Academic Year** | 2nd Year (Sophomore) |
-| **Cumulative Commits** | 5,890+ |
-| **Research Interests** | ML / Robotics / Webots Simulation |
-| **Project Deployments** | 10+ Integrated AI Solutions |
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D007ACC%26height%3D150%26section%3Dheader%26text%3DTECHNICAL%2520ECOSYSTEM%26fontSize%3D40%26fontColor%3Dfff%26animation%3Dtwinkling%26fontAlignY%3D35"/>
 
 </div>
 
----
+🛠 TECH STACK & TOOLS
+Core Intelligence <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,pytorch,tensorflow,opencv,scikit-learn%26theme%3Ddark" />
 
-## Core Analytics
+Infrastructure & Simulation <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dros,linux,docker,mysql,aws,git%26theme%3Ddark" />
+
+Specialized Frameworks
+
+Physics Engines: Webots (Advanced Simulation)
+
+Data Viz: Power BI, Tableau
+
+Architecture: Control Systems & Kinematics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav410&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav410&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff)
+📊 ANALYTICS HUB
+<table> <tr> <td>
+
+⚡ CONTRIBUTION STREAK
+
+
+<img width="400" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dvaibhav410%26theme%3Dradical%26hide_border%3Dtrue%26stroke%3D0000%26background%3D0D1117%26ring%3D007ACC%26fire%3D007ACC%26currStreakLabel%3D007ACC"/>
+
+</td> <td>
+
+💎 SYSTEM STATS
+
+
+<img width="400" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dvaibhav410%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D007ACC%26icon_color%3D007ACC%26text_color%3DFFF%26count_private%3Dtrue%26border_radius%3D15"/>
+
+</td> </tr> </table>
+
+LANGUAGE DISTRIBUTION
+
+
+<img width="500" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dvaibhav410%26langs_count%3D10%26layout%3Ddonut-vertical%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D007ACC%26text_color%3DFFF%26border_radius%3D15%26count_private%3Dtrue"/>
 
 </div>
 
----
-
-## Professional Connectivity
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adivaibhav12)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav410)
+⚡ SYSTEM STATUS
+Diff
 
-</div>
++ ✅ CORE_MODELS.PY LOADED
++ ✅ SIMULATION_ENGINE.SYS ACTIVE
++ ✅ DATA_PIPELINE.BAT EXECUTING
+! ⚠️ OPTIMIZATION_IN_PROGRESS
+- ❌ SYSTEM_IDLE_STATE_TERMINATED
+📡 NETWORK CONNECTIVITY
+<a href="https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0077B5"/> </a> <a href="https://kanojia-tech.netlify.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite%26labelColor%3D000"/> </a> <a href="mailto:vkkanojia079@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=D14836"/> </a>
 
----
-<div align="center">
-  <i>"Engineering the future of autonomous systems through intelligent data."</i>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D007ACC%26height%3D100%26section%3Dfooter%26text%3DTERMINATING%2520SESSION%26fontSize%3D20%26fontColor%3Dfff%26animation%3Dtwinkling"/>
+
+> CONNECTION CLOSED. ACCESS LOGGED.
 </div>
