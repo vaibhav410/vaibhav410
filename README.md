@@ -113,9 +113,9 @@
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-kumar-kanojia-38533631b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
-  </a>
+  <a href="https://github.com/vaibhav410?tab=repositories">
+  <img src="https://img.shields.io/github/stars/vaibhav410?style=for-the-badge&color=0891b2"/>
+</a>
   <a href="https://www.kaggle.com/adivaibhav12">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge"/>
   </a>
