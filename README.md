@@ -1,22 +1,4 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Kumar%20Kanojia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Autonomous%20Systems%20Engineer%20|%20AI/ML%20Specialist%20|%20Robotics%20Enthusiast&descAlignY=52&descSize=18"/>
-
-  <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Building+Intelligent+Autonomous+Systems;%F0%9F%A7%A0+Machine+Learning+%26+Computer+Vision;%F0%9F%8E%AE+Webots+Simulation+Expert;%F0%9F%9A%80+Turning+Data+into+Decisions" alt="Typing SVG" />
-
-  <br/>
-  
-  <a href="https://github.com/vaibhav410">
-    <img src="https://img.shields.io/github/followers/vaibhav410?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=vaibhav410">
-    <img src="https://komarev.com/ghpvc/?username=vaibhav410&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="views"/>
-  </a>
-  <a href="https://github.com/vaibhav410?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/vaibhav410?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="stars"/>
-  </a>
+<
 
   <br/><br/>
   
@@ -38,7 +20,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="180"/>
 
-```yaml
+
 name: Vaibhav Kumar Kanojia
 located_in: India
 current_role: B.Tech Student (AI & ML) - 2nd Year
@@ -120,4 +102,4 @@ Tech: OpenCV TensorFlow YOLO ROS2
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%92%AC" /> <br/>
 Made with ❤️ by Vaibhav Kumar Kanojia
 
-</div> ``
+</div> 
