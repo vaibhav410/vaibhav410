@@ -67,17 +67,14 @@
 
 ## 🛠 Tech Stack
 
-**Robotics & Simulation:**  
-Webots • ROS2 • Gazebo • OpenCV • SLAM • Control Systems  
+### 🤖 Robotics & Simulation
+![Webots](https://img.shields.io/badge/Webots-FF6600?style=for-the-badge&logo=probotics&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-6E6E6E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-AI_Algorithms-007ACC?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control_Systems-Engineering-007ACC?style=for-the-b_)
 
-**Machine Learning:**  
-Python • PyTorch • TensorFlow • Scikit-learn • Keras • HuggingFace  
-
-**Data & Cloud:**  
-Pandas • NumPy • MySQL • Power BI • Tableau • AWS  
-
-**DevOps:**  
-Docker • Git • Linux • Flask  
 
 ---
 
