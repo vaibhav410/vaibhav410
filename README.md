@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Vaibhav+Kumar+Kanojia;AI+%26+ML+%7C+Robotics+Engineer;Autonomous+Systems+Enthusiast&font=Fira+Code&pause=1200&center=true&width=700&height=90&duration=4000&color=007ACC&size=34" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Vaibhav+Kumar+Kanojia;Autonomous+Systems+Enthusiast&font=Fira+Code&pause=1200&center=true&width=700&height=90&duration=4000&color=007ACC&size=34" alt="Typing SVG"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vaibhav410&label=Profile+Views&color=007ACC&style=flat-square)](https://github.com/vaibhav410)
 [![Followers](https://img.shields.io/github/followers/vaibhav410?label=Followers&style=flat-square&color=007ACC)](https://github.com/vaibhav410?tab=followers)
