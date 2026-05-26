@@ -38,7 +38,7 @@
 **Name:** Vaibhav Kumar Kanojia  
 **Location:** India  
 **Degree:** B.Tech (Artificial Intelligence & Machine Learning)  
-**Year:** 2nd Year  
+**Year:** 3rd Year  
 
 ### 🎯 Interests
 - Autonomous Navigation  
